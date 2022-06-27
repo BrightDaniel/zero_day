@@ -1,2 +1,2 @@
-*Emphasize* _emphasize_
-**Strong** __Strong__
+Alx Zero day. An assignment to help us get used to vagrant and the virtualbox.
+100% optional
